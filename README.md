@@ -1,4 +1,4 @@
-<h1 align="center">Aplicação MyMoneyApp para controle financeiro!</h1>
+<h1 align="center">💸💰💳 Aplicação MyMoneyApp para controle financeiro! 💳💰💸</h1>
 
 <h2>Passos iniciais:</h2>
 <ul>
@@ -11,6 +11,8 @@
 </ul>
 <br>
 <br>
+<h2 align="center">Algumas screenshots:</h2>
+
 <p align="center">
     <img src="https://i.imgur.com/7utvaL3.png">
 </p>
