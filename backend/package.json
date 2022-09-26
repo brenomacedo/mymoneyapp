@@ -16,7 +16,7 @@
     "mongoose": "^5.8.9",
     "mongoose-paginate": "^5.0.3",
     "node-restful": "^0.2.6",
-    "pm2": "^4.2.3"
+    "pm2": "^5.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
